@@ -1,0 +1,78 @@
+/* CSS Document */
+body {
+margin: 0px
+}
+
+A:link {
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Verdana;
+	color: #48769F;
+}
+
+A:visited {
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Verdana;
+	color: #48769F
+}
+
+A:hover {
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Verdana;
+	color: #FF9700
+}
+
+INPUT
+{
+	BORDER-RIGHT: #6D8DAD 1px solid;
+	BORDER-TOP: #6D8DAD 1px solid;
+	FONT-SIZE: 12px;
+	font-weight:600;
+	BORDER-LEFT: #6D8DAD 1px solid;
+	COLOR: #48769F;
+	BORDER-BOTTOM: #6D8DAD 1px solid;
+	FONT-FAMILY: Verdana;
+	BACKGROUND-COLOR: #E7FEF2
+}
+
+SELECT
+{
+	BORDER-RIGHT: #6D8DAD 1px solid;
+	BORDER-TOP: #6D8DAD 1px solid;
+	FONT-SIZE: 12px;
+	font-weight:600;
+	BORDER-LEFT: #6D8DAD 1px solid;
+	COLOR: #5986AF;
+	BORDER-BOTTOM: #6D8DAD 1px solid;
+	FONT-FAMILY: Verdana;
+	BACKGROUND-COLOR: #E7FEF2
+}
+
+.ttl
+{
+	FONT-SIZE: 10px;
+	text-align: center;
+	FONT-WEIGHT: bold;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana
+}
+
+.arr
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #FFBE60
+
+}
+
+.tdbg { background-color: #D0E0EF }
+.tdbg1 { background-color: #2F5D89; color: #FFFFFF; font-weight: bold }
+.tdbg2 { background-color: #5480AA }
+.td1{FONT-SIZE: 8pt; FONT-FAMILY: Verdana}
+a {	FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: none}
+a:hover { color: #FF9700 }
+
+
+.thumbnail:link {FONT-SIZE: 7.5pt; COLOR: #ffffff}

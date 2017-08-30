@@ -1,0 +1,40 @@
+.hr {
+  background-color: #48769F;
+  color: #FFFFFF;
+  font-family: tahoma;
+  font-size: 11px;
+  font-weight:bold;
+}
+.dr {
+  color: #000000;
+  font-family: Arial;
+  font-size: 12px;
+}
+.sr {
+  color: #000000;
+  font-family: Arial;
+  font-size: 12px;
+}
+.Btable {
+
+}
+
+.B{
+	background-color:#A5BDD3; 
+}
+
+/* General styling for both valid and invalid input */
+.invalidInput,.validInput{
+	display:compact;
+	padding:1px;
+}
+/* Style for invalid input */
+.invalidInput{
+	border:1px solid #F00;
+}
+
+/* Style for valid input */
+.validInput{
+	border:1px solid #FFF;
+}
+</style>
